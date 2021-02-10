@@ -9,7 +9,7 @@ function HeroSection() {
         <HeroContainer>
             <div className='hero-container'>  
                 <h1>TOGGLE BRAINS</h1>
-                <p>O Mundo das Tecnologias Espera por Ti!</p>
+                <p>Conheca o Mundo!</p>
                 <div className="hero-btns">
                     <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>INICIAR</Button>
                     <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>

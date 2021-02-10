@@ -68,7 +68,7 @@ function Footer() {
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>Togglle Brains © 2020</small>
+          <small class='website-rights'>{(new Date().getFullYear())}</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
